@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Letrieusang
-- My CV: [LeTrieuSang.pdf](https://github.com/Letrieusang/Letrieusang/files/10527539/LeTrieuSang.pdf)
+- 👋 Hi, I’m @Letrieusang, here is my CV: [LeTrieuSang.pdf](https://github.com/Letrieusang/Letrieusang/files/10527539/LeTrieuSang.pdf)
 - 👀 I’m interested in Golang and backend technology
-- 🌱 I’m currently learning Golang and OOP
+- 🌱 I’m currently learning Golang and Blockchain
 - 📫 How to reach me by +phonenumber : 0964035755
 -                        +gmail: letrieusang@gmail.com
 -                        +facebook: https://www.facebook.com/angelsweeping/
